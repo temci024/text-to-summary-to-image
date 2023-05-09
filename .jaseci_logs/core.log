@@ -1,0 +1,5 @@
+2023-05-09 16:51:24,068 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-05-09 16:53:49,667 - ERROR - load_local_actions: Cannot hot load local actions from jac/text-to-image.py: cannot identify image file <_io.BytesIO object at 0x7f8f3aa83a60>
+2023-05-09 16:57:05,643 - ERROR - load_local_actions: Cannot hot load from action file jac/text-to-image.pyaac
+2023-05-09 17:06:28,813 - ERROR - call_action: Error calling action text-to-image.query: query() missing 1 required positional argument: 'payload'
