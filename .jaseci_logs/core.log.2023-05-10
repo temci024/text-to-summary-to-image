@@ -1,0 +1,5 @@
+2023-05-10 09:42:13,888 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-05-10 10:02:49,286 - ERROR - start: Skipping RedisService due to initialization failure!
+ConnectionError: Error 111 connecting to localhost:6379. Connection refused.
+2023-05-10 10:05:49,178 - ERROR - call_action: Error calling action sl_summarize: Action sl_summarize not found
